@@ -48,6 +48,39 @@ Step 4: Now that the Resource Group is created, we can begin creating our Virtua
 </p>
 <br />
 
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/90d0e4ff-c036-47d6-93a5-1c127af29ba7)
+<p>
+Step 5: Select the Resource Group we created (VM-LAB01). Name the VM whatever you like so I'm going to name mine (VM-1) just to keep it simple. Then select the same region that we put the Resource group in which was (US) East US. We're going to leave the Availability and Security type as the default settings.  For Image, since we're creating a Windows VM I'm going to select (Windows 10 Pro, version 22H2 - x64 Gen2)
+</P>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/7f31a00a-0785-4e90-9dbe-fba93798ceb9)
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/fe20dab8-b568-4acc-ac97-dd6f1aafc5a4)
+<p>
+Step 6: Next we will select the size for the VM which essentially determines the performance of the VM you're creating. Since we're just creating one VM we should be fine with selecting (Standard_DC2s_v3 - 2 vcpus, 16 GiB memory ($140.16/month). Choose a Username and Password (Username: labuser). (NOTE: Take note or remember what you choose because you will need it later on in the tutorial.) Check the Licensing box and click Next.  
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/9123dd49-2f01-47ee-9275-c27ed1a7e621)
+<p>
+Step 7: We're going to leave the Disks setttings as is. Click Next to Navigate to Networking.   
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/1d1cfac9-82cf-4713-adb5-2054f3ee25ec)
+<p>
+Step 8: This is where the Virtual Network and Subnet will be created automatically. The VM will have 2 IP Addresses, your Public IP Address which is accessible from the internet which will be used to connect to the VM later and the Subnet (10.0.0.4/24) which is the Private IP Address that will be used to communicate between another VM we'll create in the next Project. Click Review + Create. 
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/ec448d2a-decf-4f03-95e9-54bb9b2c3012)
+<p>
+Step 9: Once validation has passed. Click Create and we will wait while our VM is being deployed.    
+</p>
+<br />
+
+
+
 
 
 
