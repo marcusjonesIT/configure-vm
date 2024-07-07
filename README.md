@@ -29,4 +29,11 @@ Step 1: Navigate to "portal.azure.com/#home" to create a Resource Group. You can
 </p>
 <br />
 
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/38f4bb16-d3f8-4ce0-8325-66635733413f)
+<p>
+Step 2: Click "Create" to create the Resource Group
+</p>
+<br />
+
+
 
