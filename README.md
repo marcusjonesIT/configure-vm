@@ -4,7 +4,7 @@
 
 
 <h1>Implementing a Virtual Machine Using Microsoft Azure</h1>
-Tutorial for deployoing a Windows 10 Virtual Machine (VM).<br />
+Tutorial for creating and deploying a Windows 10 Virtual Machine (VM).<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -34,6 +34,16 @@ Step 1: Navigate to "portal.azure.com/#home" to create a Resource Group. You can
 Step 2: Click "Create" to create the Resource Group
 </p>
 <br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/0cea2614-59db-4382-bd5f-e47c49f1c6fc)
+<p>
+Step 3: Select what Subscription you want the Resource Group to go into if you have more than one Subscription but we only have one so we will choose "Azure Subscription 1". Next you will name your Resource Group and for this Demo we'll just name it "VM-LAB01". From there select what region you want the resources to be created. Also some resources are not available in every region. So for this project we're going to create our resources in "(US) East US". Then at the bottom of the page click "Review + Create"
+</p>
+<br />
+
+
+
+
 
 
 
