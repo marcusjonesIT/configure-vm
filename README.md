@@ -119,7 +119,7 @@ Step 15: Honestly these privacy settings don't matter for tutorial purposes so w
 
 ![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/5c82539c-20d9-48d8-8578-6695b1b46e57)
 <p>
-The screen should look similar to this and we have now successfully deployed and connected to our Virtual Machine. From here we can do a variety of things such as test new operating systems, new applications or safely test new things without affecting our own computer. 
+The screen should look similar to this and we have now successfully deployed and connected to our Virtual Machine. From here we can do a variety of tasks such as test new operating systems, new applications or safely test new things without affecting our own computer. 
 </p>
 <br />
  
