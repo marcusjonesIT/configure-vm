@@ -11,6 +11,7 @@ Tutorial for creating and deploying a Windows 10 Virtual Machine (VM).<br />
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Windows 10
 
 <h2>Operating Systems Used </h2>
 
