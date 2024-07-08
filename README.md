@@ -79,6 +79,61 @@ Step 9: Once validation has passed. Click Create and we will wait while our VM i
 </p>
 <br />
 
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/8a53fb07-e842-45eb-a5de-65f092a0c020)
+<p>
+Step 10: This isn't necessarily a step but here you can see the Resources such as the VM, NIC, Network Security Groups and Public IP Addresse are being created within the Resource Group we created.  
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/9f07e785-bf27-46bc-9e24-f581c66af3ab)
+<p>
+Step 11: After deployment is complete, to navigate to your VM which is (VM1) you can click "Go to resource", type in virtual machines in the search bar or go to the home page in the portal and select virtual machines. 
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/8da439ad-a614-4406-a95c-ceea769fc784)
+<p>
+Step 12: Next we're going to login to our VM via Remote Desktop Connection. So what you want to do is click the Start menu and type in Remote and you should see (Remote Desktop Connection) and open the app so that we can connect to our VM. 
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/720509e5-0d00-48a2-b170-85af5760ba76)
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/35651cc0-b5ec-41d8-b91d-348275055528)
+<p>
+Step 13: Now we're going to copy & paste our VM Public IP Address (48.216.212.118) then click connect.   
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/d4649056-d2dc-4d7f-aceb-1bbbc30c4ca9)
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/cb6b9725-8207-42bf-8597-13ff134409d4)
+<p>
+Step 14: Select more choices and enter the Username (labuser) and Password that we created in Step 6.  Don't be alarmed when the second screen pop up after logging in, just select Yes to continue connecting to the VM. 
+</p>
+<br />
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/a370c6b7-6380-4534-984f-43eb133a649a)
+<p>
+Step 15: Honestly these privacy settings don't matter for tutorial purposes so we're just going to deselect all of the options and click Accept. 
+</p>
+<br /> 
+
+![image](https://github.com/marcusjonesIT/configure-vm/assets/174873189/5c82539c-20d9-48d8-8578-6695b1b46e57)
+<p>
+The screen should look similar to this and we have now successfully deployed and connected to our Virtual Machine. From here we can do a variety of things such as test new operating systems, new applications or safely test new things without affecting our own computer. 
+</p>
+<br />
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
